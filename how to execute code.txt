@@ -1,0 +1,6 @@
+Goto the project app directory
+cd *//path//app*
+
+Step 1: pip install -r requirement.txt
+Step 2: run python app.py
+Step 3: go to the hosted port (eg: http://127.0.0.1:5000/)
